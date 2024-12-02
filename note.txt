@@ -1,0 +1,46 @@
+1. Starting with Basics (Introduction to Node.js)
+
+    firstServer.js
+    Learn how to create a basic server.
+    serverWithMethod.js
+    Understand how to handle HTTP methods (GET, POST, etc.).
+
+2. Exploring Core Modules
+
+    osExample.js
+    Learn about the os module and retrieve system information.
+    pathExample.js
+    Work with file paths using the path module.
+    url.js & urlParse.js
+    Understand the url module for parsing and formatting URLs.
+
+3. File System (FS) Module
+
+    fsModuleSync.js
+    Learn synchronous file system operations.
+    fsModuleAsync.js
+    Understand asynchronous file system operations.
+
+4. Custom Modules
+
+    localMoule.js
+    Create and use your own custom modules.
+    math.js
+    Practice custom utility functions, e.g., math operations.
+
+5. HTTP and Routing
+
+    httpRouteBasic.js
+    Learn to set up basic routing for HTTP requests.
+    firstRequestServer.js
+    Understand request handling with req and res.
+
+6. Serving Static Files
+
+    RouteStaticPages/ folder
+    Serve static files like demo.txt in the browser.
+
+7. Project Configuration
+
+    package.json
+    Understand package management, dependencies, and scripts.
